@@ -1,0 +1,440 @@
+<positions>
+    <element name="audio">
+        <x>0.000000000</x>
+        <y>116.000000000</y>
+        <width>1024.000000000</width>
+        <height>94.000000000</height>
+    </element>
+    <element name="bangs">
+        <x>0.000000000</x>
+        <y>234.000000000</y>
+        <width>1024.000000000</width>
+        <height>43.000000000</height>
+    </element>
+    <element name="colors">
+        <x>0.000000000</x>
+        <y>479.000000000</y>
+        <width>850.000000000</width>
+        <height>47.000000000</height>
+    </element>
+    <element name="colour">
+        <x>0.000000000</x>
+        <y>365.000000000</y>
+        <width>1024.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="curves">
+        <x>0.000000000</x>
+        <y>252.000000000</y>
+        <width>850.000000000</width>
+        <height>65.000000000</height>
+    </element>
+    <element name="fingers">
+        <x>0.000000000</x>
+        <y>70.000000000</y>
+        <width>850.000000000</width>
+        <height>43.000000000</height>
+    </element>
+    <element name="flags">
+        <x>0.000000000</x>
+        <y>408.000000000</y>
+        <width>850.000000000</width>
+        <height>47.000000000</height>
+    </element>
+    <element name="greenpeace">
+        <x>0.000000000</x>
+        <y>70.000000000</y>
+        <width>850.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="lfo">
+        <x>0.000000000</x>
+        <y>550.000000000</y>
+        <width>850.000000000</width>
+        <height>67.000000000</height>
+    </element>
+    <element name="offset">
+        <x>0.000000000</x>
+        <y>493.000000000</y>
+        <width>1024.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="offset_0">
+        <x>0.000000000</x>
+        <y>621.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="offset_1">
+        <x>0.000000000</x>
+        <y>749.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="offset_10">
+        <x>0.000000000</x>
+        <y>1901.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="offset_11">
+        <x>0.000000000</x>
+        <y>2029.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="offset_12">
+        <x>0.000000000</x>
+        <y>2157.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="offset_13">
+        <x>0.000000000</x>
+        <y>2285.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="offset_14">
+        <x>0.000000000</x>
+        <y>2413.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="offset_15">
+        <x>0.000000000</x>
+        <y>2541.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="offset_16">
+        <x>0.000000000</x>
+        <y>2669.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="offset_17">
+        <x>0.000000000</x>
+        <y>2797.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="offset_18">
+        <x>0.000000000</x>
+        <y>2925.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="offset_19">
+        <x>0.000000000</x>
+        <y>3053.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="offset_2">
+        <x>0.000000000</x>
+        <y>877.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="offset_20">
+        <x>0.000000000</x>
+        <y>3181.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="offset_21">
+        <x>0.000000000</x>
+        <y>3309.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="offset_22">
+        <x>0.000000000</x>
+        <y>3437.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="offset_23">
+        <x>0.000000000</x>
+        <y>3565.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="offset_24">
+        <x>0.000000000</x>
+        <y>3693.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="offset_25">
+        <x>0.000000000</x>
+        <y>3821.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="offset_26">
+        <x>0.000000000</x>
+        <y>3949.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="offset_27">
+        <x>0.000000000</x>
+        <y>4077.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="offset_28">
+        <x>0.000000000</x>
+        <y>4205.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="offset_3">
+        <x>0.000000000</x>
+        <y>1005.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="offset_4">
+        <x>0.000000000</x>
+        <y>1133.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="offset_5">
+        <x>0.000000000</x>
+        <y>1261.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="offset_6">
+        <x>0.000000000</x>
+        <y>1389.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="offset_7">
+        <x>0.000000000</x>
+        <y>1517.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="offset_8">
+        <x>0.000000000</x>
+        <y>1645.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="offset_9">
+        <x>0.000000000</x>
+        <y>1773.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="scene">
+        <x>0.000000000</x>
+        <y>301.000000000</y>
+        <width>1024.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="slitscan">
+        <x>0.000000000</x>
+        <y>365.000000000</y>
+        <width>1024.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="star">
+        <x>0.000000000</x>
+        <y>429.000000000</y>
+        <width>1024.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="star_0">
+        <x>0.000000000</x>
+        <y>557.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="star_1">
+        <x>0.000000000</x>
+        <y>685.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="star_10">
+        <x>0.000000000</x>
+        <y>1837.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="star_11">
+        <x>0.000000000</x>
+        <y>1965.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="star_12">
+        <x>0.000000000</x>
+        <y>2093.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="star_13">
+        <x>0.000000000</x>
+        <y>2221.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="star_14">
+        <x>0.000000000</x>
+        <y>2349.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="star_15">
+        <x>0.000000000</x>
+        <y>2477.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="star_16">
+        <x>0.000000000</x>
+        <y>2605.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="star_17">
+        <x>0.000000000</x>
+        <y>2733.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="star_18">
+        <x>0.000000000</x>
+        <y>2861.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="star_19">
+        <x>0.000000000</x>
+        <y>2989.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="star_2">
+        <x>0.000000000</x>
+        <y>813.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="star_20">
+        <x>0.000000000</x>
+        <y>3117.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="star_21">
+        <x>0.000000000</x>
+        <y>3245.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="star_22">
+        <x>0.000000000</x>
+        <y>3373.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="star_23">
+        <x>0.000000000</x>
+        <y>3501.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="star_24">
+        <x>0.000000000</x>
+        <y>3629.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="star_25">
+        <x>0.000000000</x>
+        <y>3757.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="star_26">
+        <x>0.000000000</x>
+        <y>3885.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="star_27">
+        <x>0.000000000</x>
+        <y>4013.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="star_28">
+        <x>0.000000000</x>
+        <y>4141.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="star_3">
+        <x>0.000000000</x>
+        <y>941.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="star_4">
+        <x>0.000000000</x>
+        <y>1069.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="star_5">
+        <x>0.000000000</x>
+        <y>1197.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="star_6">
+        <x>0.000000000</x>
+        <y>1325.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="star_7">
+        <x>0.000000000</x>
+        <y>1453.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="star_8">
+        <x>0.000000000</x>
+        <y>1581.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="star_9">
+        <x>0.000000000</x>
+        <y>1709.000000000</y>
+        <width>1440.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="switches">
+        <x>0.000000000</x>
+        <y>641.000000000</y>
+        <width>850.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="video">
+        <x>0.000000000</x>
+        <y>52.000000000</y>
+        <width>1024.000000000</width>
+        <height>40.000000000</height>
+    </element>
+</positions>

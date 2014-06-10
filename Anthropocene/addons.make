@@ -1,0 +1,13 @@
+ofxGui
+ofxKinect
+ofxOpenCv
+ofxXmlSettings
+ofxBox2d
+ofxMSATimer
+ofxOpticalFlowFarneback
+ofxRange
+ofxSlitScan
+ofxTextInputField
+ofxTimecode
+ofxTimeline
+ofxTween
